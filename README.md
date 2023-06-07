@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jmdalal , I teach mathematics at a comprehensive public high school in Taza, Morocco I am also a web developer
+- 👋 Hi, I’m @jmdalal , I teach mathematics at a comprehensive public high school in taza, Morocco I am also a web developer
 - 👀 I’m interested in all  technologies .
 - 🌱 I’m currently learning Python . 
 <!---
